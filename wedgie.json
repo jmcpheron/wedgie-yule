@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "mod": "yule",
+      "name": "Yule Log",
+      "about": "A crackling arcade fireplace for your shelf. Halloween scene too.",
+      "files": ["yule.py"],
+      "entry": "run",
+      "fw": "0.3.36",
+      "label": "#e3312c",
+      "icon": ["............", "............", "......y.....", ".....yy.....", "....yrry....", "...yrrrry...",
+               "...rryyrr...", "..rryyyyrr..", "..ssssssss..", ".kkkkkkkkkk.", "..ssssssss..", "............"]
+    }
+  ]
+}
