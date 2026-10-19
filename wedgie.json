@@ -3,13 +3,32 @@
     {
       "mod": "yule",
       "name": "Yule Log",
-      "about": "A crackling arcade fireplace for your shelf. Halloween scene too.",
-      "files": ["yule.py"],
+      "about": "A pixel fireplace. Every 3 minutes the Trust M draws 0000-9999: low numbers bring rare visitors.",
+      "files": [
+        "yule.py",
+        "yule_chip.py",
+        "yule_room.py",
+        "yule_ev.py",
+        "yule_book.py",
+        "yule_art.bin"
+      ],
       "entry": "run",
       "fw": "0.3.36",
       "label": "#e3312c",
-      "icon": ["............", "............", "......y.....", ".....yy.....", "....yrry....", "...yrrrry...",
-               "...rryyrr...", "..rryyyyrr..", "..ssssssss..", ".kkkkkkkkkk.", "..ssssssss..", "............"]
+      "icon": [
+        "............",
+        "............",
+        "......y.....",
+        ".....yy.....",
+        "....yrry....",
+        "...yrrrry...",
+        "...rryyrr...",
+        "..rryyyyrr..",
+        "..ssssssss..",
+        ".kkkkkkkkkk.",
+        "..ssssssss..",
+        "............"
+      ]
     }
   ]
 }
